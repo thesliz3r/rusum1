@@ -32,4 +32,6 @@ manat= totalDollar * kurs
 text = ("Malin Azn Qiymeti:", round(manat, 2) ,"Azn")
 text = str(text).upper()
 
+print('git add')
+
 print(text)
